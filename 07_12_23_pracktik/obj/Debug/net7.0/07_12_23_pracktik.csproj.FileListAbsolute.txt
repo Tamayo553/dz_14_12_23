@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\bin\Debug\net7.0\07_12_23_pracktik.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\bin\Debug\net7.0\07_12_23_pracktik.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\bin\Debug\net7.0\07_12_23_pracktik.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\bin\Debug\net7.0\07_12_23_pracktik.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\bin\Debug\net7.0\07_12_23_pracktik.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\refint\07_12_23_pracktik.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\07_12_23_pracktik.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\07_12_23_pracktik\obj\Debug\net7.0\ref\07_12_23_pracktik.dll
