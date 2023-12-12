@@ -1,16 +1,61 @@
 ﻿//Задайте массив из вещественных чисел с ненулевой дробной частью. Найдите разницу между максимальным и минимальным элементов массива.
 
 
-Console.WriteLine("Введите число - ");
-double num = Convert.ToInt32(Console.ReadLine());
+ public class Dz_3
+    {
+       public const int MIN = 1;
+        public const int MAX = 99;
 
-int[] array = new int[10];
-int count = 0;
+        public static void Main(string[] args) {
+            System.Console.Write("Введите размерность генерируемого массива: ");
 
+            int arraySize = GetArraySizeFromConsole();
+            while (arraySize < 0.0) {
+                arraySize = GetArraySizeFromConsole();
+            }
 
-for(int i = 0; i < array.Length; i++)
-{
-    array[i] = new Random().Next(0.85) / 100;
-}
-Console.WriteLine(array[i] + " ");
+            double[] array = GetArrayWithRandomValue(arraySize);
 
+            System.Console.WriteLine("Оригинальный массив:");
+            System.Console.WriteLine(PrintArray(array));
+
+            System.Console.WriteLine("Разница между максимальным и минимальным значениями элементов массива:");
+            System.Console.WriteLine(getDifferenceMaxMinValue(array).ToString("N2"));
+        }
+
+        public static int GetArraySizeFromConsole() {
+            try{
+                return Convert.ToInt32(Console.ReadLine());
+            } catch (Exception)
+                {
+                System.Console.WriteLine("Введеное значение не ядляется числом. Попробуйте снова.");
+            }
+            return -1;
+        }
+
+        public static double[] GetArrayWithRandomValue(int size) {
+            double[] array = new double[size];
+            for(int i = 0; i < size; i++) {
+                array[i] = (new Random().NextDouble()) + (new Random().Next(MIN, MAX));
+            }
+            return array;
+        }
+
+        public static double getDifferenceMaxMinValue(double[] array) {
+            double minVal= 0.0;
+            double maxVal= 0.0;
+            foreach(double item in array) {
+                if(item < minVal) minVal = item;
+                if(item > maxVal) maxVal = item;
+            }
+            return maxVal - minVal;
+        }
+
+        public static string PrintArray(double[] array) {
+            string result = "";
+            foreach(double item in array) {
+                result = result + item + " ";
+            }
+            return result;
+        } 
+    }
