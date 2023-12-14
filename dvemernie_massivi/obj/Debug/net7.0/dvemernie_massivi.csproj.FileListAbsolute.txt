@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\bin\Debug\net7.0\dvemernie_massivi.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\bin\Debug\net7.0\dvemernie_massivi.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\bin\Debug\net7.0\dvemernie_massivi.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\bin\Debug\net7.0\dvemernie_massivi.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\bin\Debug\net7.0\dvemernie_massivi.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\refint\dvemernie_massivi.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\dvemernie_massivi.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dvemernie_massivi\obj\Debug\net7.0\ref\dvemernie_massivi.dll
