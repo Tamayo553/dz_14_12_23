@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\bin\Debug\net7.0\dz_4.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\bin\Debug\net7.0\dz_4.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\bin\Debug\net7.0\dz_4.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\bin\Debug\net7.0\dz_4.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\bin\Debug\net7.0\dz_4.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\refint\dz_4.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\dz_4.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\dz_4\obj\Debug\net7.0\ref\dz_4.dll
