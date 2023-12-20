@@ -28,4 +28,3 @@ else
 Console.ReadLine();
 
 
-q
