@@ -5,7 +5,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите N - ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-void che(int m, int n)
+void rek(int m, int n)
 {
     if(m>n)
     return;
@@ -14,6 +14,6 @@ void che(int m, int n)
     {
         Console.Write($" {m} ");
     }
-    che(m+1,n);
+    rek(m+1,n);
 }
-che(m,n);
+rek(m,n);
