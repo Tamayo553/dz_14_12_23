@@ -1,0 +1,14 @@
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\bin\Debug\net7.0\ITOGOVA_1.exe
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\bin\Debug\net7.0\ITOGOVA_1.deps.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\bin\Debug\net7.0\ITOGOVA_1.runtimeconfig.json
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\bin\Debug\net7.0\ITOGOVA_1.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\bin\Debug\net7.0\ITOGOVA_1.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.AssemblyInfoInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.AssemblyInfo.cs
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.csproj.CoreCompileInputs.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\refint\ITOGOVA_1.dll
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.pdb
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ITOGOVA_1.genruntimeconfig.cache
+C:\Users\alfan\OneDrive\Рабочий стол\C#\ITOGOVA_1\obj\Debug\net7.0\ref\ITOGOVA_1.dll
